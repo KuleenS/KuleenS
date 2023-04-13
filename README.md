@@ -3,11 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuleens&label=Profile%20views&color=0e75b6&style=flat" alt="kuleens" /> </p>
 
-- 🔭 I’m currently working on [investigating vaccine hesitancy on Twitter](https://github.com/KuleenS/Covid19-Discourse-Understanding-ASSIP-2021)
+- 🔭 I’m currently working on [Fairness of LLMs](https://github.com/pocaguirre/FewShotFairness)
 
-- 🌱 I’m currently learning **PyTorch, Tensorflow**
 
-- 💬 Ask me about **T5, BERT, NLP, Model and Data Parallelism**
+- 🌱 I’m currently learning **Statistical and Probabilistic Machine Learning**
 
 - 📫 How to reach me **ksasse1@jh.edu**
 
