@@ -3,12 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuleens&label=Profile%20views&color=0e75b6&style=flat" alt="kuleens" /> </p>
 
-- 🔭 I’m currently working on [Fairness of LLMs](https://github.com/pocaguirre/FewShotFairness)
-
+- 🔭 I’m currently working on learning to detect dog whistles
 
 - 🌱 I’m currently learning **Statistical and Probabilistic Machine Learning**
-
-- 📫 How to reach me **ksasse1@jh.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
